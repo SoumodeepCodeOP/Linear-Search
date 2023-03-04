@@ -1,1 +1,1 @@
-# Linear-Search
+# Linear-Search writtn in C
